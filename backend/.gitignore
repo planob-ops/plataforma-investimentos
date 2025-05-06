@@ -1,1 +1,12 @@
-├── .gitignore           -> Arquivo para ignorar dependências e arquivos desnecessários
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Sistema operacional
+.DS_Store
+
+# Configurações do ambiente local
+.env
